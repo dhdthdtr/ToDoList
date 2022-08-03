@@ -62,7 +62,8 @@
         android:id="@+id/registrationPageQuestion"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Don't have an account? Register"
+        android:text="@string/login"
+        android:textStyle="bold"
         android:textColor="#fff"
         android:gravity="center"
         android:layout_marginTop="10dp"/>
