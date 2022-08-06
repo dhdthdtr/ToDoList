@@ -1,2 +1,2 @@
 # ToDoList
- My firsy To-do app for android
+ My first To-do app for android
